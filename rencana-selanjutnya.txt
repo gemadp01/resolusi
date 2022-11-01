@@ -2,5 +2,5 @@ Rencana Selanjutnya
 
 - Mendalami lebih rajin
   - tiap materinya 
-- mencoba merge pada fitur 2
-
+- coba merge fitur 1
+- dan merge conflict
